@@ -1,1 +1,2 @@
 projeto Dio Git/GitHub
+Desafio inicial de Git/GitHub como atividade avaliativa do Bootcamp Santander Fullstack
