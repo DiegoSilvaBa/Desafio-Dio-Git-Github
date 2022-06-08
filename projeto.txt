@@ -1,2 +1,3 @@
 projeto Dio Git/GitHub
 Desafio inicial de Git/GitHub como atividade avaliativa do Bootcamp Santander Fullstack
+O Git é um dos sistemas de controle de versão mais utilizados no mundo de desenvolvimento de software. Ele é um projeto de código aberto desenvolvido em 2005 por Linus Torvalds, o criador do kernel do Linux.
